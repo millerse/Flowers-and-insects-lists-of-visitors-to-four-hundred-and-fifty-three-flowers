@@ -15,7 +15,6 @@ term | example | description |
  interactionTypeName | eats | human readable description of interactions
  targetTaxonId |  EOL:1971 | taxon classification id of originating organisms 
  targetTaxonName | Echinoidea | scientific name of taxon classification of target organism of interaction
- LocationinhostName| On tube feet | The location of the host where the parasite is found
  localityId | GEONAMES:5391961 | reference to geo classification like geonames.org, gazetteer or other.
  localityName | San Francisco Bay, California, USA | human readable description of locale
  decimalLatitude | -41.0983423 | latitude of geographic center of interaction observation location http://rs.tdwg.org/dwc/terms/index.htm#decimalLatitude
